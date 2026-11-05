@@ -1,0 +1,101 @@
+id_contrato,fecha_firma,id_artista,nombre_artista,rol,id_contraparte,nombre_contraparte,tipo_contraparte,tipo_contrato,fecha_inicio,fecha_fin,monto,moneda,pais,ciudad,estado_contrato,porcentaje_regalia
+1,2026-01-18 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-02 12:00:00,2027-02-02 12:00:00,3231.37,MXN,México,Ciudad de México,vigente,0.00
+2,2025-02-16 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-03 12:00:00,2026-03-03 12:00:00,3962.74,EUR,España,Madrid,vencido,6.00
+3,2026-03-20 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-04 12:00:00,2027-04-04 12:00:00,4694.11,USD,Colombia,Bogotá,vigente,0.00
+4,2025-04-20 12:00:00,1004,Mateo Luna,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-05-05 12:00:00,2026-05-05 12:00:00,5425.48,USD,Argentina,Buenos Aires,vencido,0.00
+5,2026-05-22 12:00:00,1005,Camila Vega,cantante,2001,Escena Aurora,promotora,presentación,2026-06-06 12:00:00,2027-06-06 12:00:00,6156.85,USD,Chile,Santiago,vigente,0.00
+6,2025-06-22 12:00:00,1006,Gabriel Prado,músico,2002,Discos Horizonte,discográfica,regalías,2025-07-07 12:00:00,2026-07-07 12:00:00,6888.22,USD,Venezuela,Caracas,vencido,8.00
+7,2026-07-24 12:00:00,1007,Sofía Mar,compositor,2003,Marca Prisma,marca,patrocinio,2026-08-08 12:00:00,2027-08-08 12:00:00,7619.59,MXN,México,Ciudad de México,vigente,0.00
+8,2025-08-25 12:00:00,1008,Nicolás Sierra,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-09-09 12:00:00,2026-09-09 12:00:00,8350.96,EUR,España,Madrid,vencido,0.00
+9,2026-09-25 12:00:00,1009,Elena Cruz,cantante,2001,Escena Aurora,promotora,presentación,2026-10-10 12:00:00,2027-10-10 12:00:00,9082.33,USD,Colombia,Bogotá,cancelado,0.00
+10,2024-12-27 12:00:00,,Andrés Valle,músico,2002,Discos Horizonte,discográfica,regalías,2025-01-11 12:00:00,2026-01-11 12:00:00,9813.70,USD,Argentina,Buenos Aires,vencido,10.00
+11,2026-01-28 12:00:00,1011,Isabel Mora,compositor,2003,Marca Prisma,marca,patrocinio,2026-02-12 12:00:00,2027-02-12 12:00:00,10545.07,USD,Chile,Santiago,vigente,0.00
+12,2025-02-26 12:00:00,1012,Tomás Rivera,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-03-13 12:00:00,2026-03-13 12:00:00,11276.44,USD,Venezuela,Caracas,vencido,0.00
+13,2026-03-30 12:00:00,1013,Paula León,cantante,2001,Escena Aurora,promotora,presentación,2026-04-14 12:00:00,2027-04-14 12:00:00,12007.81,MXN,México,Ciudad de México,vigente,0.00
+14,2025-04-30 12:00:00,1014,Daniel Alba,músico,2002,Discos Horizonte,discográfica,regalías,2025-05-15 12:00:00,2026-05-15 12:00:00,12739.18,EUR,España,Madrid,vencido,12.00
+15,2026-06-01 12:00:00,1015,Mariana Costa,compositor,2003,Marca Prisma,marca,patrocinio,2026-06-16 12:00:00,2027-06-16 12:00:00,13470.55,USD,Colombia,Bogotá,vigente,0.00
+16,2025-07-02 12:00:00,1016,Samuel Vela,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-07-17 12:00:00,2026-07-17 12:00:00,14201.92,USD,Argentina,Buenos Aires,vencido,0.00
+17,2026-08-03 12:00:00,1017,Clara Fuentes,cantante,2001,Escena Aurora,promotora,presentación,2026-08-18 12:00:00,2027-08-18 12:00:00,14933.29,USD,Chile,Santiago,vigente,0.00
+18,2025-09-04 12:00:00,1018,Javier Olmo,músico,2002,Discos Horizonte,discográfica,regalías,2025-09-19 12:00:00,2026-09-19 12:00:00,15664.66,USD,Venezuela,Caracas,cancelado,14.00
+19,2026-10-05 12:00:00,1019,Renata Cielo,compositor,2003,Marca Prisma,marca,patrocinio,2026-10-20 12:00:00,2027-10-20 12:00:00,16396.03,MXN,México,Ciudad de México,vigente,0.00
+20,2025-01-06 12:00:00,1020,Emilio Robles,productor,,Tienda Melodía,distribuidora,merchandising,2025-01-21 12:00:00,2026-01-21 12:00:00,17127.40,EUR,España,Madrid,vencido,0.00
+21,2026-02-07 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-22 12:00:00,2027-02-22 12:00:00,17858.77,USD,Colombia,Bogotá,vigente,0.00
+22,2025-03-08 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-23 12:00:00,2026-03-23 12:00:00,18590.14,USD,Argentina,Buenos Aires,vencido,5.50
+23,2026-04-09 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-24 12:00:00,2027-04-24 12:00:00,19321.51,USD,Chile,Santiago,vigente,0.00
+24,2025-05-10 12:00:00,1004,Mateo Luna,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-05-25 12:00:00,2026-05-25 12:00:00,20052.88,USD,Venezuela,Caracas,vencido,0.00
+25,2026-05-17 12:00:00,1005,Camila Vega,cantante,2001,Escena Aurora,promotora,presentación,2026-06-01 12:00:00,2027-06-01 12:00:00,20784.25,MXN,México,Ciudad de México,vigente,0.00
+26,2025-06-17 12:00:00,1006,Gabriel Prado,músico,2002,Discos Horizonte,discográfica,regalías,2025-07-02 12:00:00,2026-07-02 12:00:00,21515.62,EUR,España,Madrid,vencido,7.50
+27,2026-07-19 12:00:00,1007,Sofía Mar,compositor,2003,Marca Prisma,marca,patrocinio,2026-08-03 12:00:00,2027-08-03 12:00:00,22246.99,USD,Colombia,Bogotá,cancelado,0.00
+28,2025-08-20 12:00:00,1008,Nicolás Sierra,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-09-04 12:00:00,2026-09-04 12:00:00,22978.36,USD,Argentina,Buenos Aires,vencido,0.00
+29,2026-09-20 12:00:00,1009,Elena Cruz,cantante,2001,Escena Aurora,promotora,presentación,2026-10-05 12:00:00,2027-10-05 12:00:00,23709.73,USD,Chile,Santiago,vigente,0.00
+30,2024-12-22 12:00:00,1010,Andrés Valle,músico,2002,Discos Horizonte,discográfica,regalías,2025-01-06 12:00:00,2026-01-06 12:00:00,,USD,Venezuela,Caracas,vencido,9.50
+31,2026-01-23 12:00:00,1011,Isabel Mora,compositor,2003,Marca Prisma,marca,patrocinio,2026-02-07 12:00:00,2027-02-07 12:00:00,25172.47,MXN,México,Ciudad de México,vigente,0.00
+32,2025-02-21 12:00:00,1012,Tomás Rivera,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-03-08 12:00:00,2026-03-08 12:00:00,25903.84,EUR,España,Madrid,vencido,0.00
+33,2026-03-25 12:00:00,1013,Paula León,cantante,2001,Escena Aurora,promotora,presentación,2026-04-09 12:00:00,2027-04-09 12:00:00,26635.21,USD,Colombia,Bogotá,vigente,0.00
+34,2025-04-25 12:00:00,1014,Daniel Alba,músico,2002,Discos Horizonte,discográfica,regalías,2025-05-10 12:00:00,2026-05-10 12:00:00,27366.58,USD,Argentina,Buenos Aires,vencido,11.50
+35,2026-05-27 12:00:00,1015,Mariana Costa,compositor,2003,Marca Prisma,marca,patrocinio,2026-06-11 12:00:00,2027-06-11 12:00:00,28097.95,USD,Chile,Santiago,vigente,0.00
+36,2025-06-27 12:00:00,1016,Samuel Vela,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-07-12 12:00:00,2026-07-12 12:00:00,28829.32,USD,Venezuela,Caracas,cancelado,0.00
+37,2026-07-29 12:00:00,1017,Clara Fuentes,cantante,2001,Escena Aurora,promotora,presentación,2026-08-13 12:00:00,2027-08-13 12:00:00,29560.69,MXN,México,Ciudad de México,vigente,0.00
+38,2025-08-30 12:00:00,1018,Javier Olmo,músico,2002,Discos Horizonte,discográfica,regalías,2025-09-14 12:00:00,2026-09-14 12:00:00,30292.06,EUR,España,Madrid,vencido,13.50
+39,2026-09-30 12:00:00,1019,Renata Cielo,compositor,2003,Marca Prisma,marca,patrocinio,2026-10-15 12:00:00,2027-10-15 12:00:00,31023.43,USD,Colombia,Bogotá,vigente,0.00
+40,2025-01-01 12:00:00,1020,Emilio Robles,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-01-16 12:00:00,2025-01-15 12:00:00,31754.80,USD,Argentina,Buenos Aires,vencido,0.00
+41,2026-02-02 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-17 12:00:00,2027-02-17 12:00:00,32486.17,USD,Chile,Santiago,vigente,0.00
+42,2025-03-03 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-18 12:00:00,2026-03-18 12:00:00,33217.54,USD,Venezuela,Caracas,vencido,5.00
+43,2026-04-04 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-19 12:00:00,2027-04-19 12:00:00,33948.91,MXN,México,Ciudad de México,vigente,0.00
+44,2025-05-05 12:00:00,1004,Mateo Luna,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-05-20 12:00:00,2026-05-20 12:00:00,34680.28,EUR,España,Madrid,vencido,0.00
+45,2026-06-06 12:00:00,1005,Camila Vega,cantante,2001,Escena Aurora,promotora,presentación,2026-06-21 12:00:00,2027-06-21 12:00:00,35411.65,USD,Colombia,Bogotá,cancelado,0.00
+46,2025-07-07 12:00:00,1006,Gabriel Prado,músico,2002,Discos Horizonte,discográfica,regalías,2025-07-22 12:00:00,2026-07-22 12:00:00,36143.02,USD,Argentina,Buenos Aires,vencido,7.00
+47,2026-08-08 12:00:00,1007,Sofía Mar,compositor,2003,Marca Prisma,marca,patrocinio,2026-08-23 12:00:00,2027-08-23 12:00:00,36874.39,USD,Chile,Santiago,vigente,0.00
+48,2025-09-09 12:00:00,1008,Nicolás Sierra,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-09-24 12:00:00,2026-09-24 12:00:00,37605.76,USD,Venezuela,Caracas,vencido,0.00
+49,2026-10-10 12:00:00,1009,Elena Cruz,cantante,2001,Escena Aurora,promotora,presentación,2026-10-25 12:00:00,2027-10-25 12:00:00,38337.13,MXN,México,Ciudad de México,vigente,0.00
+50,2024-12-17 12:00:00,1010,Andrés Valle,músico,2002,Discos Horizonte,discográfica,regalías,2025-01-01 12:00:00,2024-12-31 12:00:00,39068.50,EUR,España,Madrid,vencido,9.00
+51,2026-01-18 12:00:00,1011,Isabel Mora,compositor,2003,Marca Prisma,marca,patrocinio,2026-02-02 12:00:00,2027-02-02 12:00:00,39799.87,USD,Colombia,Bogotá,vigente,0.00
+52,2025-02-16 12:00:00,1012,Tomás Rivera,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-03-03 12:00:00,2026-03-03 12:00:00,40531.24,USD,Argentina,Buenos Aires,vencido,0.00
+53,2026-03-20 12:00:00,1013,Paula León,cantante,2001,Escena Aurora,promotora,presentación,2026-04-04 12:00:00,2027-04-04 12:00:00,41262.61,USD,Chile,Santiago,vigente,0.00
+54,2025-04-20 12:00:00,1014,Daniel Alba,músico,2002,Discos Horizonte,discográfica,regalías,2025-05-05 12:00:00,2026-05-05 12:00:00,41993.98,USD,Venezuela,Caracas,cancelado,11.00
+55,2026-05-22 12:00:00,1015,Mariana Costa,compositor,2003,Marca Prisma,marca,patrocinio,2026-06-06 12:00:00,2027-06-06 12:00:00,42725.35,MXN,México,Ciudad de México,vigente,0.00
+56,2025-06-22 12:00:00,1016,Samuel Vela,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-07-07 12:00:00,2026-07-07 12:00:00,43456.72,EUR,España,Madrid,vencido,0.00
+57,2026-07-24 12:00:00,1017,Clara Fuentes,cantante,2001,Escena Aurora,promotora,presentación,2026-08-08 12:00:00,2027-08-08 12:00:00,44188.09,USD,Colombia,Bogotá,vigente,0.00
+58,2025-08-25 12:00:00,1018,Javier Olmo,músico,2002,Discos Horizonte,discográfica,regalías,2025-09-09 12:00:00,2026-09-09 12:00:00,44919.46,USD,Argentina,Buenos Aires,vencido,13.00
+59,2026-09-25 12:00:00,1019,Renata Cielo,compositor,2003,Marca Prisma,marca,patrocinio,2026-10-10 12:00:00,2027-10-10 12:00:00,45650.83,USD,Chile,Santiago,vigente,0.00
+60,2024-12-27 12:00:00,1020,Emilio Robles,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-01-11 12:00:00,2025-01-10 12:00:00,46382.20,USD,Venezuela,Caracas,vencido,0.00
+61,2026-01-28 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-12 12:00:00,2027-02-12 12:00:00,47113.57,MXN,México,Ciudad de México,vigente,0.00
+62,2025-02-26 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-13 12:00:00,2026-03-13 12:00:00,47844.94,EUR,España,Madrid,vencido,15.00
+63,2026-03-30 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-14 12:00:00,2027-04-14 12:00:00,48576.31,USD,Colombia,Bogotá,cancelado,0.00
+64,2025-04-30 12:00:00,1004,Mateo Luna,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-05-15 12:00:00,2026-05-15 12:00:00,49307.68,USD,Argentina,Buenos Aires,vencido,0.00
+65,2026-06-01 12:00:00,1005,Camila Vega,cantante,2001,Escena Aurora,promotora,presentación,2026-06-16 12:00:00,2027-06-16 12:00:00,50039.05,USD,Chile,Santiago,vigente,0.00
+66,2025-07-02 12:00:00,1006,Gabriel Prado,músico,2002,Discos Horizonte,discográfica,regalías,2025-07-17 12:00:00,2026-07-17 12:00:00,50770.42,USD,Venezuela,Caracas,vencido,6.50
+67,2026-08-03 12:00:00,1007,Sofía Mar,compositor,2003,Marca Prisma,marca,patrocinio,2026-08-18 12:00:00,2027-08-18 12:00:00,51501.79,MXN,México,Ciudad de México,vigente,0.00
+68,2025-09-04 12:00:00,1008,Nicolás Sierra,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-09-19 12:00:00,2026-09-19 12:00:00,52233.16,EUR,España,Madrid,vencido,0.00
+69,2026-10-05 12:00:00,1009,Elena Cruz,cantante,2001,Escena Aurora,promotora,presentación,2026-10-20 12:00:00,2027-10-20 12:00:00,52964.53,USD,Colombia,Bogotá,vigente,0.00
+70,2025-01-06 12:00:00,1010,Andrés Valle,músico,2002,Discos Horizonte,discográfica,regalías,2025-01-21 12:00:00,2026-01-21 12:00:00,0.00,USD,Argentina,Buenos Aires,vencido,8.50
+71,2026-02-07 12:00:00,1011,Isabel Mora,compositor,2003,Marca Prisma,marca,patrocinio,2026-02-22 12:00:00,2027-02-22 12:00:00,54427.27,USD,Chile,Santiago,vigente,0.00
+72,2025-03-08 12:00:00,1012,Tomás Rivera,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-03-23 12:00:00,2026-03-23 12:00:00,55158.64,USD,Venezuela,Caracas,cancelado,0.00
+73,2026-04-09 12:00:00,1013,Paula León,cantante,2001,Escena Aurora,promotora,presentación,2026-04-24 12:00:00,2027-04-24 12:00:00,55890.01,MXN,México,Ciudad de México,vigente,0.00
+74,2025-05-10 12:00:00,1014,Daniel Alba,músico,2002,Discos Horizonte,discográfica,regalías,2025-05-25 12:00:00,2026-05-25 12:00:00,56621.38,EUR,España,Madrid,vencido,10.50
+75,2026-05-17 12:00:00,1015,Mariana Costa,compositor,2003,Marca Prisma,marca,patrocinio,2026-06-01 12:00:00,2027-06-01 12:00:00,57352.75,USD,Colombia,Bogotá,vigente,0.00
+76,2025-06-17 12:00:00,1016,Samuel Vela,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-07-02 12:00:00,2026-07-02 12:00:00,58084.12,USD,Argentina,Buenos Aires,vencido,0.00
+77,2026-07-19 12:00:00,1017,Clara Fuentes,cantante,2001,Escena Aurora,promotora,presentación,2026-08-03 12:00:00,2027-08-03 12:00:00,58815.49,USD,Chile,Santiago,vigente,0.00
+78,2025-08-20 12:00:00,1018,Javier Olmo,músico,2002,Discos Horizonte,discográfica,regalías,2025-09-04 12:00:00,2026-09-04 12:00:00,59546.86,USD,Venezuela,Caracas,vencido,12.50
+79,2026-09-20 12:00:00,1019,Renata Cielo,compositor,2003,Marca Prisma,marca,patrocinio,2026-10-05 12:00:00,2027-10-05 12:00:00,60278.23,MXN,México,Ciudad de México,vigente,0.00
+80,2024-12-22 12:00:00,1020,Emilio Robles,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-01-06 12:00:00,2026-01-06 12:00:00,-1500.00,EUR,España,Madrid,vencido,0.00
+81,2026-01-23 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-07 12:00:00,2027-02-07 12:00:00,61740.97,USD,Colombia,Bogotá,cancelado,0.00
+82,2025-02-21 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-08 12:00:00,2026-03-08 12:00:00,62472.34,USD,Argentina,Buenos Aires,vencido,14.50
+83,2026-03-25 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-09 12:00:00,2027-04-09 12:00:00,63203.71,USD,Chile,Santiago,vigente,0.00
+84,2025-04-25 12:00:00,1004,Mateo Luna,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-05-10 12:00:00,2026-05-10 12:00:00,63935.08,USD,Venezuela,Caracas,vencido,0.00
+85,2026-05-27 12:00:00,1005,Camila Vega,cantante,2001,Escena Aurora,promotora,presentación,2026-06-11 12:00:00,2027-06-11 12:00:00,64666.45,MXN,México,Ciudad de México,vigente,0.00
+86,2025-06-27 12:00:00,1006,Gabriel Prado,músico,2002,Discos Horizonte,discográfica,regalías,2025-07-12 12:00:00,2026-07-12 12:00:00,65397.82,EUR,España,Madrid,vencido,6.00
+87,2026-07-29 12:00:00,1007,Sofía Mar,compositor,2003,Marca Prisma,marca,patrocinio,2026-08-13 12:00:00,2027-08-13 12:00:00,66129.19,USD,Colombia,Bogotá,vigente,0.00
+88,2025-08-30 12:00:00,1008,Nicolás Sierra,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-09-14 12:00:00,2026-09-14 12:00:00,66860.56,USD,Argentina,Buenos Aires,vencido,0.00
+89,2026-09-30 12:00:00,1009,Elena Cruz,cantante,2001,Escena Aurora,promotora,presentación,2026-10-15 12:00:00,2027-10-15 12:00:00,67591.93,USD,Chile,Santiago,vigente,0.00
+90,2025-01-01 12:00:00,1010,Andrés Valle,músico,2002,Discos Horizonte,discográfica,regalías,2025-01-16 12:00:00,2026-01-16 12:00:00,-250.00,USD,Venezuela,Caracas,cancelado,8.00
+91,2026-02-02 12:00:00,1011,Isabel Mora,compositor,2003,Marca Prisma,marca,patrocinio,2026-02-17 12:00:00,2027-02-17 12:00:00,69054.67,MXN,México,Ciudad de México, vigente ,0.00
+92,2025-03-03 12:00:00,1012,Tomás Rivera,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-03-18 12:00:00,2026-03-18 12:00:00,69786.04,usd,España,Madrid,vencido,0.00
+93,2026-04-04 12:00:00,1013,Paula León,cantante,2001,Escena Aurora,promotora,presentación,2026-04-19 12:00:00,2027-04-19 12:00:00,70517.41,EUR, españa ,Madrid,vigente,0.00
+94,2025-05-05 12:00:00,1014,Daniel Alba,músico,2002,Discos Horizonte,discográfica,regalías,2025-05-20 12:00:00,2026-05-20 12:00:00,71248.78,USD,Argentina,Buenos Aires,vencido,10.00
+95,2026-06-06 12:00:00,1015,Mariana Costa,compositor,2003,Marca Prisma,marca,patrocinio,2026-06-21 12:00:00,2027-06-21 12:00:00,71980.15,USD,Chile,Santiago,vigente,0.00
+96,2025-07-07 12:00:00,1016,Samuel Vela,productor,2004,Tienda Melodía,distribuidora,merchandising,2025-07-22 12:00:00,2026-07-22 12:00:00,72711.52,USD,Venezuela,Caracas,vencido,0.00
+97,2026-08-08 12:00:00,1017,Clara Fuentes,cantante,2001,Escena Aurora,promotora,presentación,2026-08-23 12:00:00,2027-08-23 12:00:00,73442.89,MXN,México,Ciudad de México,vigente,0.00
+1,2026-01-18 12:00:00,1001,Lucía Montes,cantante,2001,Escena Aurora,promotora,presentación,2026-02-02 12:00:00,2027-02-02 12:00:00,3231.37,MXN,México,Ciudad de México,vigente,0.00
+2,2025-02-16 12:00:00,1002,Diego Ríos,músico,2002,Discos Horizonte,discográfica,regalías,2025-03-03 12:00:00,2026-03-03 12:00:00,3962.74,EUR,España,Madrid,vencido,6.00
+3,2026-03-20 12:00:00,1003,Valentina Sol,compositor,2003,Marca Prisma,marca,patrocinio,2026-04-04 12:00:00,2027-04-04 12:00:00,4694.11,USD,Colombia,Bogotá,vigente,0.00
